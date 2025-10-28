@@ -1,0 +1,11 @@
+setting,region,emissions_kg,index_normalized
+Unmanaged,GB,15789.092217,100.00
+Opportunistic,GB,14966.741094,94.79
+GPE,GB,15707.436594,99.48
+Unmanaged,DE,20838.824839,100.00
+Opportunistic,DE,19889.546584,95.44
+GPE,DE,20763.535675,99.64
+Unmanaged,FR,2206.623895,100.00
+Opportunistic,FR,2125.227458,96.31
+GPE,FR,2198.091921,99.61
+Geo-GPE,Portfolio,8821.431956,68.15
