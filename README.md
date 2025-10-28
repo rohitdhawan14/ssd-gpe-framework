@@ -443,15 +443,31 @@ After running the full pipeline, verify your results match the paper:
 - ENTSO-E data: [ENTSO-E Terms of Service](https://transparency.entsoe.eu/tos/)
 
 ---
+## Citation
+
+**Pre-publication version:**
+```bibtex
+@misc{dhawan2026ssd,
+  author = {Dhawan, Rohit and Patel, Minav Suresh and Desai, Priyank and Dhar, Ankush},
+  title = {Software Sustainability Debt and the Governance-Process-Execution 
+           Framework: Evidence from 513,000 Real-World CI/CD Workflows},
+  note = {Manuscript Under Review},
+  year = {2026}
+}
+```
+---
 
 ## 👥 Contact
 
 **Authors:**
 - **Rohit Dhawan** - rohitdhwn14@ieee.org
+- **Minav Suresh Patel** - minavpatel90@ieee.org (IEEE Senior Member)
+- **Priyank Desai** - priyankd@ieee.org (IEEE Senior Member)
+- **Ankush Dhar** - ankush.dhar@ieee.org (IEEE Member)
 
 **Questions about:**
-- **Paper:** Email author
-- **Reproducibility:** Open a [GitHub Issue](https://github.com/YOUR-USERNAME/ssd-gpe-framework/issues)
+- **Paper:** Email first author
+- **Reproducibility:** Open a [GitHub Issue](https://github.com/rohitdhawan14/ssd-gpe-framework/issues)
 - **Data access:** See Data Requirements section or contact authors
 - **Collaboration:** Welcome! Please reach out via email
 
